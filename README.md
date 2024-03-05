@@ -3,7 +3,7 @@ Small ssh server to print message to who try to connecting to 22 port
 
 ## Build
 ```sh
-go mod download
+go get
 go build
 ```
 
